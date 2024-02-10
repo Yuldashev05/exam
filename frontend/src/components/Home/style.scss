@@ -1,5 +1,5 @@
 @import "../../assets/styles/settings";
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Scribble&display=swap');
+
 $bg-img: url('../../assets/images/Rectangle1.png');
 
 .home-wrapper {
@@ -40,7 +40,7 @@ $bg-img: url('../../assets/images/Rectangle1.png');
                 font-size: 110px;
                 span {
                     width: 50%;
-                    font-family: 'Rubik Scribble', system-ui;
+                    font-family: 'Permanent Marker', system-ui;
                     display: inline;
                 }
                 color: snow;
